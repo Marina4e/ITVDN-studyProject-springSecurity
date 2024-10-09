@@ -1,0 +1,9 @@
+*.iml
+logs
+attachments/
+*.patch
+target/
+.idea/
+out/
+iml/
+gitignore/

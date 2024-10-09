@@ -1,6 +1,8 @@
 This project thanks to the ITVDN company was created for educational purposes.
-It practices the skills of creating a basic project using as a base: Tomcat, Spring Security(6), Thymeleaf, etc.
-The project creates such pages in the browser as: main, logging, users, administrators and their secure authentication.
+It practices the skills of creating a basic project using as a base:
+Tomcat, Spring Security(6), Thymeleaf, etc.
+The project creates such pages in the browser as: 
+main, logging, users, administrators and their secure authentication:
 ![Знімок екрана 2024-10-08 192734](https://github.com/user-attachments/assets/ca1ff01c-00e5-4609-9fbd-6f008878b5fa)
 ![Знімок екрана 2024-10-08 204059](https://github.com/user-attachments/assets/155919d1-716c-47f6-bd03-a08c23ee2b55)
 ![Знімок екрана 2024-10-09 111505](https://github.com/user-attachments/assets/56753a6c-35be-4372-b0be-edff08911e9b)
